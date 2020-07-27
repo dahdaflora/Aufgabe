@@ -1,0 +1,19 @@
+h3{text-align: center;}
+
+#about {
+    /* padding-left: 3px; */
+    /* padding-left: 5px; */
+    /* padding-left: 7px; */
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 150px;
+    text-align: center;
+}
+#about h3{
+    text-align: center;
+}
+.form-group{
+    padding-top: 60px;
+    padding-left: 100px;
+    padding-right: 100px;
+}

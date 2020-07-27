@@ -1,0 +1,27 @@
+h1{padding-top: 60px;
+    text-align: center;
+    font-size: 50px;
+    font-family: "Apple Color Emoji";
+
+}
+
+#home1{
+    background-color: cadetblue ;
+    padding-bottom: 100px;
+}
+#home2{
+    background-color: beige;
+    font-size: 20px;
+    height: 500px;
+    text-align: center;
+    margin-bottom: 100px
+;
+}
+
+
+#home2 > p:nth-child(1) {
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+    margin-bottom: 0px;
+}
